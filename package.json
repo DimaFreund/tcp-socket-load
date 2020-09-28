@@ -14,6 +14,10 @@
   "author": "Hassy Veldstra <h@artillery.io>",
   "license": "MPL-2.0",
   "dependencies": {
-    "artillery": "1.5.0-19"
+    "artillery": "1.5.0-19",
+    "artillery-engine-tcp": "^1.0.0"
+  },
+  "devDependencies": {
+    "csv-parser": "^2.3.3"
   }
 }

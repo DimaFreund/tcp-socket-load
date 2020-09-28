@@ -1,0 +1,4 @@
+node_modules
+artillery_report_*
+package-lock.json
+.idea
